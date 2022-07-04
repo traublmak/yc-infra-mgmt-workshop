@@ -13,7 +13,7 @@
 REPO=yc-infra-mgmt-workshop
 mkdir labs
 cd labs
-git clone https://github.com/nettworker/$REPO.git
+git clone https://github.com/traublmak/$REPO.git
 cp -R $REPO/* .
 rm -rf $REPO
 unset REPO
